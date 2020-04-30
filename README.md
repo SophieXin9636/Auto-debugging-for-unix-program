@@ -21,5 +21,5 @@ pip install pwntools
 ## Run
 input your file name (no extension)
 ```shell
-python debug.py
+bash run.sh
 ```
