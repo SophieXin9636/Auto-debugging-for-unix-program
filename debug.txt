@@ -1,3 +1,4 @@
+
 ------------ * Debug Type 0 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
@@ -74,8 +75,9 @@ Fork
 You are at a fork of two passages, one to the northeast, and one to the
 southeast.  The ground here seems very soft. You can also go back west.
 There is a CPU card here.
->x catd
-I don't know what that is.
+>x card
+The CPU board has a VAX chip on it.  It seems to have
+2 Megabytes of RAM onboard.
 >x cpu
 The CPU board has a VAX chip on it.  It seems to have
 2 Megabytes of RAM onboard.
@@ -96,7 +98,7 @@ Building front
 You are at the end of the road.  There is a building in front of you
 to the northeast, and the road leads back to the southwest.
 >ne
-You don't have a key that can open this door.
+You do not have a key that can open this door.
 >sw
 NE/SW road
 >sw
@@ -163,7 +165,7 @@ Old Building hallway
 You are in the hallway of an old building.  There are rooms to the east
 and west, and doors leading out to the north and south.
 >n
-You don't have a key that can open this door.
+You do not have a key that can open this door.
 >e
 Mailroom
 You are in a mailroom.  There are many bins where the mail is usually
@@ -213,6 +215,8 @@ I see nothing special about that.
 I don't know what that is.
 >x panel
 I don't know what that is.
+>x steady
+I don't know what that is.
 >put card in computer
 As you put the CPU board in the computer, it immediately springs to life.
 The lights start flashing, and the fans seem to startup.
@@ -227,7 +231,8 @@ You are in a computer room.  It seems like most of the equipment has been remove
 The panel lights are flashing in a seemingly organized pattern.
 >quit
 
-You have scored 0 out of a possible 90 points.------------ * Debug Type 1 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 1 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
@@ -241,7 +246,7 @@ You manage to get about two feet up the tree and fall back down.  You notice tha
 >climb palm
 You manage to get about two feet up the tree and fall back down.  You notice that the tree is very unsteady.
 >climb palms
-I don't know what that is.
+I don't know what that object is.
 >xyz
 I don't understand that.
 >x
@@ -269,7 +274,7 @@ I don't know what that is.
 >shake xyz
 I don't know what that is.
 >climb xyz
-I don't know what that is.
+I don't know what that object is.
 >put xyz
 I don't know what that object is.
 >x key
@@ -283,9 +288,9 @@ You don't have that.
 >shake key
 I don't see that here.
 >climb key
-You can't climb that.
+I don't see that here.
 >put key
-You must supply an indirect object.
+You don't have that.
 >put lamp
 You must supply an indirect object.
 >put lamp in
@@ -297,7 +302,7 @@ I don't know how to combine those objects.  Perhaps you should just try dropping
 >x shovel
 It is a normal shovel with a price tag attached that says $19.99.
 >x lamp
-I don't see that here.
+The lamp is hand-crafted by Geppetto.
 >x tree
 They are palm trees with a bountiful supply of coconuts in them.
 >x boulder
@@ -318,6 +323,8 @@ You cannot take that.
 You cannot take that.
 >drop lamp
 Done.
+>take lamp
+Taken.
 >throw shovel
 Done.
 >l
@@ -328,6 +335,8 @@ trees here are very tall royal palms, and they are spaced equidistant
 from each other.
 There is a lamp nearby.
 There is a shovel here.
+>take lamp
+Taken.
 >shake hand
 I don't know what that is.
 >shake
@@ -342,7 +351,7 @@ Taken.
 You currently have:
 A shovel
 >shake lamp
-You don't have that.
+Shaking a lamp seems to have no effect.
 >shake shovel
 Shaking a shovel seems to have no effect.
 >e
@@ -401,11 +410,17 @@ to the northeast, and the road leads back to the southwest.
 >drop key
 Done.
 >ne
-You don't have a key that can open this door.
+You do not have a key that can open this door.
+>get key
+Taken.
+>ne
+Old Building hallway
+You are in the hallway of an old building.  There are rooms to the east
+and west, and doors leading out to the north and south.
 >w
 You cannot go that way.
 >put lamp
-You must supply an indirect object.
+You don't have that.
 >put lamp on vax
 You don't have that.
 >put lamp in shovel
@@ -571,13 +586,13 @@ Some food
 >shake lamp
 Shaking a lamp seems to have no effect.
 >shake shovel
-You don't have that.
+I don't see that here.
 >shake cpu
 I don't see that here.
 >shake food
-I don't see that here.
+Shaking some food seems to have no effect.
 >shake emerald
-I don't see that here.
+Shaking a bracelet seems to have no effect.
 >throw food
 Done.
 The bear takes the food and runs away with it. He left something behind.
@@ -591,11 +606,11 @@ A lamp
 A brass key
 A bracelet
 >shake key
-I don't see that here.
+Shaking a brass key seems to have no effect.
 >se
 You cannot go that way.
 >eat key
-You forcefully shove a key down your throat, and start choking.
+You forcefully shove a brass key down your throat, and start choking.
 
 You are dead.
 You have scored 0 out of a possible 90 points.
