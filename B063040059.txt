@@ -1,0 +1,601 @@
+------------ * Debug Type 0 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>e
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>w
+Dead end
+There is a shovel here.
+>l
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>x shovel
+It is a normal shovel with a price tag attached that says $19.99.
+>x trees
+They are palm trees with a bountiful supply of coconuts in them.
+>x tree
+They are palm trees with a bountiful supply of coconuts in them.
+>x palms
+I don't know what that is.
+>x palm
+They are palm trees with a bountiful supply of coconuts in them.
+>x coconuts
+I see nothing special about that.
+>x coconut
+I see nothing special about that.
+>i
+You currently have:
+A lamp
+>get coconut
+You cannot take that.
+>get shovel
+Taken.
+>i
+You currently have:
+A lamp
+A shovel
+>l
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+>e
+E/W Dirt road
+There is a large boulder here.
+>l
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>x trees
+They are palm trees with a bountiful supply of coconuts in them.
+>e
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>x ground
+I don't know what that is.
+>dig
+I think you found something.
+>l
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+There is a CPU card here.
+>x catd
+I don't know what that is.
+>x cpu
+The CPU board has a VAX chip on it.  It seems to have
+2 Megabytes of RAM onboard.
+>x board
+The CPU board has a VAX chip on it.  It seems to have
+2 Megabytes of RAM onboard.
+>get cpu
+Taken.
+>l
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>ne
+NE/SW road
+You are on a northeast/southwest road.
+>ne
+Building front
+You are at the end of the road.  There is a building in front of you
+to the northeast, and the road leads back to the southwest.
+>ne
+You don't have a key that can open this door.
+>sw
+NE/SW road
+>sw
+Fork
+>se
+SE/NW road
+You are on a southeast/northwest road.
+There is some food here.
+>x food
+It looks like some kind of meat.  Smells pretty bad.
+>get food
+Taken.
+>se
+Bear hangout
+You are standing at the end of a road.  A passage leads back to the
+northwest.
+There is a ferocious bear here!
+>x bear
+It looks like a grizzly to me.
+>x key
+I don't see that here.
+>drop food
+Done.
+The bear takes the food and runs away with it. He left something behind.
+>l
+Bear hangout
+You are standing at the end of a road.  A passage leads back to the
+northwest.
+There is a shiny brass key here.
+>x bear
+I don't see that here.
+>x key
+I see nothing special about that.
+>get key
+Taken.
+>sw 
+Hidden area
+There is an emerald bracelet here.
+>x emerald
+I see nothing special about that.
+>x bracelet
+I see nothing special about that.
+>get bracelet
+Taken.
+>i
+You currently have:
+A lamp
+A shovel
+A computer board
+A brass key
+A bracelet
+>ne
+Bear hangout
+>nw
+SE/NW road
+>nw
+Fork
+>ne
+NE/SW road
+>ne
+Building front
+>ne
+Old Building hallway
+You are in the hallway of an old building.  There are rooms to the east
+and west, and doors leading out to the north and south.
+>n
+You don't have a key that can open this door.
+>e
+Mailroom
+You are in a mailroom.  There are many bins where the mail is usually
+kept.  The exit is to the west.
+>x bins
+All of the bins are empty.  Looking closely you can see that there
+are names written at the bottom of each bin, but most of them are
+faded away so that you cannot read them.  You can only make out three
+names:
+                   Jeffrey Collier
+                   Robert Toukmond
+                   Thomas Stock
+
+>x bin
+All of the bins are empty.  Looking closely you can see that there
+are names written at the bottom of each bin, but most of them are
+faded away so that you cannot read them.  You can only make out three
+names:
+                   Jeffrey Collier
+                   Robert Toukmond
+                   Thomas Stock
+
+>get bin
+You cannot take that.
+>w
+Old Building hallway
+>w
+Computer room
+You are in a computer room.  It seems like most of the equipment has
+been removed.  There is a VAX 11/780 in front of you, however, with
+one of the cabinets wide open.  A sign on the front of the machine
+says: This VAX is named ‘pokey’.  To type on the console, use the
+‘type’ command.  The exit is to the east.
+The panel lights are steady and motionless.
+>e
+Old Building hallway
+>w
+Computer room
+The panel lights are steady and motionless.
+>x computer
+I see nothing special about that.
+>x vax
+I see nothing special about that.
+>x cabinet
+I see nothing special about that.
+>x lights
+I don't know what that is.
+>x panel
+I don't know what that is.
+>put card in computer
+As you put the CPU board in the computer, it immediately springs to life.
+The lights start flashing, and the fans seem to startup.
+>e
+Old Building hallway
+>w
+Computer room
+The panel lights are flashing in a seemingly organized pattern.
+>l
+Computer room
+You are in a computer room.  It seems like most of the equipment has been removed.  There is a VAX 11/780 in front of you, however, with one of the cabinets wide open.  A sign on the front of the machine says: This VAX is named ‘pokey’.  To type on the console, use the ‘type’ command.  The exit is to the east.
+The panel lights are flashing in a seemingly organized pattern.
+>quit
+
+You have scored 0 out of a possible 90 points.------------ * Debug Type 1 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>climb tree
+You manage to get about two feet up the tree and fall back down.  You notice that the tree is very unsteady.
+>climb trees
+You manage to get about two feet up the tree and fall back down.  You notice that the tree is very unsteady.
+>climb palm
+You manage to get about two feet up the tree and fall back down.  You notice that the tree is very unsteady.
+>climb palms
+I don't know what that is.
+>xyz
+I don't understand that.
+>x
+You must supply an object.
+>get
+You must supply an object.
+>drop
+You must supply an object.
+>eat
+You must supply an object.
+>climb
+You must supply an object.
+>shake
+You must supply an object.
+>put
+You must supply an object.
+>x xyz
+I don't know what that is.
+>get xyz
+I don't know what that is.
+>drop xyz
+I don't know what that is.
+>eat xyz
+I don't know what that is.
+>shake xyz
+I don't know what that is.
+>climb xyz
+I don't know what that is.
+>put xyz
+I don't know what that object is.
+>x key
+I don't see that here.
+>get key
+I do not see that here.
+>drop key
+You don't have that.
+>eat key
+You don't have that.
+>shake key
+I don't see that here.
+>climb key
+You can't climb that.
+>put key
+You must supply an indirect object.
+>put lamp
+You must supply an indirect object.
+>put lamp in
+You must supply an indirect object.
+>put lamp lamp
+You must supply an indirect object.
+>put lamp in lamp
+I don't know how to combine those objects.  Perhaps you should just try dropping it.
+>x shovel
+It is a normal shovel with a price tag attached that says $19.99.
+>x lamp
+I don't see that here.
+>x tree
+They are palm trees with a bountiful supply of coconuts in them.
+>x boulder
+I don't see that here.
+>x xyz
+I don't know what that is.
+>get shovel
+Taken.
+>get boulder
+I do not see that here.
+>get xyz
+I don't know what that is.
+>get lamp
+I do not see that here.
+>get tree
+You cannot take that.
+>take tree
+You cannot take that.
+>drop lamp
+Done.
+>throw shovel
+Done.
+>l
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a lamp nearby.
+There is a shovel here.
+>shake hand
+I don't know what that is.
+>shake
+You must supply an object.
+>shake boulder
+I don't see that here.
+>shake shovel
+You don't have that.
+>get shovel
+Taken.
+>i
+You currently have:
+A shovel
+>shake lamp
+You don't have that.
+>shake shovel
+Shaking a shovel seems to have no effect.
+>e
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>climb tree
+You manage to get about two feet up the tree and fall back down.  You notice that the tree is very unsteady.
+>climb boulder
+You can't climb that.
+>e
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>dig
+I think you found something.
+>get cpu
+Taken.
+>se
+SE/NW road
+You are on a southeast/northwest road.
+There is some food here.
+>get food
+Taken.
+>se
+Bear hangout
+You are standing at the end of a road.  A passage leads back to the
+northwest.
+There is a ferocious bear here!
+>climb bear
+You can't climb that.
+>drop food
+Done.
+The bear takes the food and runs away with it. He left something behind.
+>get key
+Taken.
+>sw
+Hidden area
+There is an emerald bracelet here.
+>get bracelet
+Taken.
+>ne
+Bear hangout
+>nw
+SE/NW road
+>nw
+Fork
+>ne
+NE/SW road
+You are on a northeast/southwest road.
+>ne
+Building front
+You are at the end of the road.  There is a building in front of you
+to the northeast, and the road leads back to the southwest.
+>drop key
+Done.
+>ne
+You don't have a key that can open this door.
+>w
+You cannot go that way.
+>put lamp
+You must supply an indirect object.
+>put lamp on vax
+You don't have that.
+>put lamp in shovel
+You don't have that.
+>put lamp on tree
+You don't have that.
+>put tree on lamp
+You don't have that.
+>put card
+You must supply an indirect object.
+>e
+You cannot go that way.
+>w
+You cannot go that way.
+>put card in vax
+That indirect object is not here.
+>e
+You cannot go that way.
+>w
+You cannot go that way.
+>put card in vax
+That indirect object is not here.
+>i
+You currently have:
+A shovel
+A computer board
+A bracelet
+>get card
+I do not see that here.
+>l
+Building front
+You are at the end of the road.  There is a building in front of you
+to the northeast, and the road leads back to the southwest.
+There is a shiny brass key here.
+>quit
+
+You have scored 0 out of a possible 90 points.------------ * Debug Type 2 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>quit
+
+You have scored 0 out of a possible 90 points.------------ * Debug Type 3 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>get shovel dfdfdf h 123
+Taken.
+>eat shovel
+You forcefully shove a shovel down your throat, and start choking.
+
+You are dead.
+You have scored 0 out of a possible 90 points.------------ * Debug Type 4 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>e
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>e
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>se
+SE/NW road
+You are on a southeast/northwest road.
+There is some food here.
+>se
+Bear hangout
+You are standing at the end of a road.  A passage leads back to the
+northwest.
+There is a ferocious bear here!
+>shake bear
+As you go up to the bear, it removes your head and places it on the ground.
+You are dead.
+You have scored 0 out of a possible 90 points.------------ * Debug Type 5 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>e
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>e
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>se
+SE/NW road
+You are on a southeast/northwest road.
+There is some food here.
+>x food
+It looks like some kind of meat.  Smells pretty bad.
+>eat food
+You don't have that.
+>get food
+Taken.
+>eat food
+That tasted horrible.
+>eat lamp
+You forcefully shove a lamp down your throat, and start choking.
+
+You are dead.
+You have scored 0 out of a possible 90 points.------------ * Debug Type 6 * ------------
+Dead end
+You are at a dead end of a dirt road.  The road goes to the east.
+In the distance you can see that it will eventually fork off.  The
+trees here are very tall royal palms, and they are spaced equidistant
+from each other.
+There is a shovel here.
+>e
+E/W Dirt road
+You are on the continuation of a dirt road.  There are more trees on
+both sides of you.  The road continues to the east and west.
+There is a large boulder here.
+>e
+Fork
+You are at a fork of two passages, one to the northeast, and one to the
+southeast.  The ground here seems very soft. You can also go back west.
+>dig
+You have nothing with which to dig.
+>get all
+I don't know what that is.
+>se
+SE/NW road
+You are on a southeast/northwest road.
+There is some food here.
+>get food
+Taken.
+>se
+Bear hangout
+You are standing at the end of a road.  A passage leads back to the
+northwest.
+There is a ferocious bear here!
+>sw
+Hidden area
+There is an emerald bracelet here.
+>get emerald
+Taken.
+>ne
+Bear hangout
+There is a ferocious bear here!
+>i
+You currently have:
+A lamp
+A bracelet
+Some food
+>shake lamp
+Shaking a lamp seems to have no effect.
+>shake shovel
+You don't have that.
+>shake cpu
+I don't see that here.
+>shake food
+I don't see that here.
+>shake emerald
+I don't see that here.
+>throw food
+Done.
+The bear takes the food and runs away with it. He left something behind.
+>shake key
+You don't have that.
+>get key
+Taken.
+>i
+You currently have:
+A lamp
+A brass key
+A bracelet
+>shake key
+I don't see that here.
+>se
+You cannot go that way.
+>eat key
+You forcefully shove a key down your throat, and start choking.
+
+You are dead.
+You have scored 0 out of a possible 90 points.
