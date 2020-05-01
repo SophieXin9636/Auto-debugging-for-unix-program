@@ -60,7 +60,6 @@ with open(your_run_text, 'w') as f:
 			c += 1
 			p.close()
 	except Exception as e:
-		#print("Error: ", e)
 		#error_class = e.__class__.__name__ # error type
 		#detail = e.args[0] # detail error content
 		#cl, exc, tb = sys.exc_info() # get Call Stack
@@ -71,6 +70,9 @@ with open(your_run_text, 'w') as f:
 		#errMsg = "File \"{}\", line {}, in {}: [{}] {}".format(fileName, lineNum, funcName, error_class, detail)
 		#print(errMsg)
 		
+		print("----------------")
+		print("\t"+e.__class__.__name__)
+		print("----------------")
 		print("Something wrong. \nWhen you run: ")
 		print("\t\t" + cmd)
 		print("Maybe you should debug and run again.")
