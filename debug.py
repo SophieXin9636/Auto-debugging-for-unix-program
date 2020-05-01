@@ -32,7 +32,7 @@ run_list.append(['quit'])
 run_list.append(['get shovel dfff h 123', 'eat shovel'])
 run_list.append(['e', 'e', 'se', 'se', 'shake bear'])
 run_list.append(['e', 'e', 'se', 'x food', 'eat food', 'get food', 'eat food', 'eat lamp'])
-run_list.append(['e','e','dig','get all','se','get food', 'se','sw','get emerald','ne','i','shake lamp', 'shake shovel', 'shake cpu','shake food','shake emerald','throw food','shake key','get key','i','shake key','se','eat key'])
+run_list.append(['get shovel','e','e','dig','get all','se','get food', 'se','sw','get emerald','ne','i','shake lamp', 'shake shovel', 'shake cpu','shake food','shake emerald','throw food','shake key','get key','i','shake key','se','eat key'])
 
 c = 0
 
@@ -80,4 +80,4 @@ with open(your_run_text, 'w') as f:
 		if c == len(run_list):
 			print("\nRun success!")
 			print("Now you can try this on your terminal: ")
-			print("# diff -bwc " + your_run_text + ".txt ~/auto_debug_for_unix/debug.txt`")
+			print("# diff -bwc " + your_run_text + " ~/auto_debug_for_unix/debug.txt")

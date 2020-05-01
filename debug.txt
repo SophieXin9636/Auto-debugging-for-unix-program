@@ -290,7 +290,7 @@ I don't see that here.
 >climb key
 I don't see that here.
 >put key
-You must supply an indirect object.
+You don't have that.
 >put lamp
 You must supply an indirect object.
 >put lamp in
@@ -560,6 +560,8 @@ In the distance you can see that it will eventually fork off.  The
 trees here are very tall royal palms, and they are spaced equidistant
 from each other.
 There is a shovel here.
+>get shovel
+Taken.
 >e
 E/W Dirt road
 You are on the continuation of a dirt road.  There are more trees on
@@ -570,9 +572,9 @@ Fork
 You are at a fork of two passages, one to the northeast, and one to the
 southeast.  The ground here seems very soft. You can also go back west.
 >dig
-You have nothing with which to dig.
+I think you found something.
 >get all
-I don't know what that is.
+A computer board: Taken.
 >se
 SE/NW road
 You are on a southeast/northwest road.
@@ -595,14 +597,16 @@ There is a ferocious bear here!
 >i
 You currently have:
 A lamp
+A shovel
+A computer board
 A bracelet
 Some food
 >shake lamp
 Shaking a lamp seems to have no effect.
 >shake shovel
-I don't see that here.
+Shaking a shovel seems to have no effect.
 >shake cpu
-I don't see that here.
+Shaking a cpu seems to have no effect.
 >shake food
 Shaking a food seems to have no effect.
 >shake emerald
@@ -617,6 +621,8 @@ Taken.
 >i
 You currently have:
 A lamp
+A shovel
+A computer board
 A brass key
 A bracelet
 >shake key

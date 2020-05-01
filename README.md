@@ -29,7 +29,7 @@ sudo apt-get install python-pip
 ```
 * pwntools
 ```shell
-pip install pwntools
+sudo pip install pwntools
 ```
 
 
@@ -46,4 +46,8 @@ This file can compare with ~/auto_debug_for_unix/debug.txt
 diff -bwc your_output_file_name ~/auto_debug_for_unix/debug.txt
 ```
 
-![](https://i.imgur.com/A7VVpqJ.png)
+An error occurred
+![](https://i.imgur.com/fEgXwAy.png)
+
+success
+![](https://i.imgur.com/nbXcKAt.png)
