@@ -40,5 +40,10 @@ python debug.py
 ```
 
 It will write output file in your directory.
+This file can compare with ~/auto_debug_for_unix/debug.txt
+
+```shell
+diff your_output_file_name ~/auto_debug_for_unix/debug.txt
+```
 
 ![](https://i.imgur.com/A7VVpqJ.png)
