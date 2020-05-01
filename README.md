@@ -46,8 +46,8 @@ This file can compare with ~/auto_debug_for_unix/debug.txt
 diff -bwc your_output_file_name ~/auto_debug_for_unix/debug.txt
 ```
 
-An error occurred
+An error occurred <br>
 ![](https://i.imgur.com/fEgXwAy.png)
-
-success
+<br>
+success <br>
 ![](https://i.imgur.com/nbXcKAt.png)
