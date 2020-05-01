@@ -9,17 +9,20 @@ Easy debugging!
 ## Environment
 * OS: Ubuntu 16.04 (or 18.04)
 * Python2
+* tcsh
+
+## Install
+* Python2 pip
 ```
 sudo apt-get install python-pip
+```
+* pwntools
+```shell
+pip install pwntools
 ```
 * tcsh
 ```
 sudo apt-get install tcsh
-```
-
-## Install
-```shell
-pip install pwntools
 ```
 
 ## Run

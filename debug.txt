@@ -290,7 +290,7 @@ I don't see that here.
 >climb key
 I don't see that here.
 >put key
-You don't have that.
+You must supply an indirect object.
 >put lamp
 You must supply an indirect object.
 >put lamp in
@@ -323,8 +323,6 @@ You cannot take that.
 You cannot take that.
 >drop lamp
 Done.
->take lamp
-Taken.
 >throw shovel
 Done.
 >l
@@ -335,10 +333,10 @@ trees here are very tall royal palms, and they are spaced equidistant
 from each other.
 There is a lamp nearby.
 There is a shovel here.
->take lamp
-Taken.
 >shake hand
 I don't know what that is.
+>take lamp
+Taken.
 >shake
 You must supply an object.
 >shake boulder
@@ -349,6 +347,7 @@ You don't have that.
 Taken.
 >i
 You currently have:
+A lamp
 A shovel
 >shake lamp
 Shaking a lamp seems to have no effect.
@@ -418,46 +417,57 @@ Old Building hallway
 You are in the hallway of an old building.  There are rooms to the east
 and west, and doors leading out to the north and south.
 >w
-You cannot go that way.
+Computer room
+You are in a computer room.  It seems like most of the equipment has
+been removed.  There is a VAX 11/780 in front of you, however, with
+one of the cabinets wide open.  A sign on the front of the machine
+says: This VAX is named ‘pokey’.  To type on the console, use the
+‘type’ command.  The exit is to the east.
+The panel lights are steady and motionless.
 >put lamp
-You don't have that.
+You must supply an indirect object.
 >put lamp on vax
-You don't have that.
+I don't know how to combine those objects.  Perhaps you should just try dropping it.
 >put lamp in shovel
-You don't have that.
+I don't know how to combine those objects.  Perhaps you should just try dropping it.
 >put lamp on tree
-You don't have that.
+That indirect object is not here.
 >put tree on lamp
 You don't have that.
 >put card
 You must supply an indirect object.
 >e
-You cannot go that way.
+Old Building hallway
 >w
-You cannot go that way.
+Computer room
+The panel lights are steady and motionless.
 >put card in vax
-That indirect object is not here.
+As you put the CPU board in the computer, it immediately springs to life.
+The lights start flashing, and the fans seem to startup.
 >e
-You cannot go that way.
+Old Building hallway
 >w
-You cannot go that way.
+Computer room
+The panel lights are flashing in a seemingly organized pattern.
 >put card in vax
-That indirect object is not here.
+You don't have that.
 >i
 You currently have:
+A lamp
 A shovel
 A computer board
+A brass key
 A bracelet
 >get card
 I do not see that here.
 >l
-Building front
-You are at the end of the road.  There is a building in front of you
-to the northeast, and the road leads back to the southwest.
-There is a shiny brass key here.
+Computer room
+You are in a computer room.  It seems like most of the equipment has been removed.  There is a VAX 11/780 in front of you, however, with one of the cabinets wide open.  A sign on the front of the machine says: This VAX is named ‘pokey’.  To type on the console, use the ‘type’ command.  The exit is to the east.
+The panel lights are flashing in a seemingly organized pattern.
 >quit
 
-You have scored 0 out of a possible 90 points.------------ * Debug Type 2 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 2 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
@@ -466,20 +476,22 @@ from each other.
 There is a shovel here.
 >quit
 
-You have scored 0 out of a possible 90 points.------------ * Debug Type 3 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 3 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
 trees here are very tall royal palms, and they are spaced equidistant
 from each other.
 There is a shovel here.
->get shovel dfdfdf h 123
+>get shovel dfff h 123
 Taken.
 >eat shovel
 You forcefully shove a shovel down your throat, and start choking.
 
 You are dead.
-You have scored 0 out of a possible 90 points.------------ * Debug Type 4 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 4 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
@@ -507,7 +519,8 @@ There is a ferocious bear here!
 >shake bear
 As you go up to the bear, it removes your head and places it on the ground.
 You are dead.
-You have scored 0 out of a possible 90 points.------------ * Debug Type 5 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 5 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
@@ -539,7 +552,8 @@ That tasted horrible.
 You forcefully shove a lamp down your throat, and start choking.
 
 You are dead.
-You have scored 0 out of a possible 90 points.------------ * Debug Type 6 * ------------
+You have scored 0 out of a possible 90 points.
+------------ * Debug Type 6 * ------------
 Dead end
 You are at a dead end of a dirt road.  The road goes to the east.
 In the distance you can see that it will eventually fork off.  The
@@ -590,9 +604,9 @@ I don't see that here.
 >shake cpu
 I don't see that here.
 >shake food
-Shaking some food seems to have no effect.
+Shaking a food seems to have no effect.
 >shake emerald
-Shaking a bracelet seems to have no effect.
+Shaking a emerald seems to have no effect.
 >throw food
 Done.
 The bear takes the food and runs away with it. He left something behind.
@@ -606,11 +620,11 @@ A lamp
 A brass key
 A bracelet
 >shake key
-Shaking a brass key seems to have no effect.
+Shaking a key seems to have no effect.
 >se
 You cannot go that way.
 >eat key
-You forcefully shove a brass key down your throat, and start choking.
+You forcefully shove a key down your throat, and start choking.
 
 You are dead.
 You have scored 0 out of a possible 90 points.
