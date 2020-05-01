@@ -630,7 +630,7 @@ Shaking a key seems to have no effect.
 >se
 You cannot go that way.
 >eat key
-You forcefully shove a key down your throat, and start choking.
+You forcefully shove a brass key down your throat, and start choking.
 
 You are dead.
 You have scored 0 out of a possible 90 points.
