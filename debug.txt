@@ -455,7 +455,6 @@ You don't have that.
 You currently have:
 A lamp
 A shovel
-A computer board
 A brass key
 A bracelet
 >get card
@@ -606,11 +605,11 @@ Shaking a lamp seems to have no effect.
 >shake shovel
 Shaking a shovel seems to have no effect.
 >shake cpu
-Shaking a cpu seems to have no effect.
+Shaking a computer board seems to have no effect.
 >shake food
-Shaking a food seems to have no effect.
+Shaking some food seems to have no effect.
 >shake emerald
-Shaking a emerald seems to have no effect.
+Shaking a bracelet seems to have no effect.
 >throw food
 Done.
 The bear takes the food and runs away with it. He left something behind.
@@ -626,7 +625,7 @@ A computer board
 A brass key
 A bracelet
 >shake key
-Shaking a key seems to have no effect.
+Shaking a brass key seems to have no effect.
 >se
 You cannot go that way.
 >eat key
